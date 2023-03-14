@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Gonzalez</h1>
-<h3 align="center">Systems Engineer, Expert in Software Programming with more than 5 years of experience in the development of innovative technological solutions. With a solid understanding of the most in-demand programming languages and development tools, I provide high-quality and efficient solutions to my clients. I always stay up to date with the latest trends and technologies to make sure my solutions are the best on the market. Looking for new challenges and opportunities in the field of technology to continue growing professionally.</h3>
+<h3 align="center">Systems Engineer, Expert in Software Programming with more than 5 years of experience in the development of innovative technological solutions. With a solid understanding of the most in-demand programming languages and development tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgonzalez12&label=Profile%20views&color=0e75b6&style=flat" alt="mgonzalez12" /> </p>
 

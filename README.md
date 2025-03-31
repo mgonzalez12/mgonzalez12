@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcos Gonzalez</h1>
-<h3 align="center">Systems Engineer, Expert in Software Programming with more than 5 years of experience in the development of innovative technological solutions. With a solid understanding of the most in-demand programming languages and development tools</h3>
+<h3 align="">I am an expert in Systems Engineering and Software Programming, with over 8 years of experience developing innovative technological solutions. My solid foundation in programming languages ​and modern tools allows me to create efficient, high-quality solutions tailored to each client's needs. I seek out challenges that drive my professional growth in the technology field.
+
+I am currently collaborating on the APIS CORE project, working with technologies such as Java, Spring Boot, Hibernate/JPA, and Apache Kafka. My experience includes microservices, MySQL and Oracle PL/SQL databases, continuous integration with Jenkins, and code management with Git/Bitbucket. I have also worked in frontend development using React/Redux, Node.js, Bootstrap, and RequireJS.
+
+I have experience in technical leadership and team management, as well as skills in collaboration tools such as Confluence. I specialize in ensuring quality through unit testing (JUnit 5, Mockito), API documentation (Swagger/OpenAPI), and code coverage with SonarQube, delivering robust and scalable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgonzalez12&label=Profile%20views&color=0e75b6&style=flat" alt="mgonzalez12" /> </p>
 
